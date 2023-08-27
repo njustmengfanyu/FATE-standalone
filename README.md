@@ -7,7 +7,7 @@
 | **数量**     | 1                                    |
 | ------------ | ------------------------------------ |
 | **配置**     | 8 core / 16G memory / 500G hard disk |
-| **操作系统** | Version: CentOS Linux release 7      |
+| **操作系统** | Version: CentOS Linux release 7 或者 Ubuntu 18.04     |
 | **用户**     | User: app owner:apps                 |
 
 ## 2. 使用Docker镜像安装FATE
